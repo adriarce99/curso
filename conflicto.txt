@@ -1,1 +1,2 @@
 Es una prueba.
+Esta modificación se ha hecho desde el navegador.
