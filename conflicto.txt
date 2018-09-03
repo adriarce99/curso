@@ -1,2 +1,6 @@
-Es una prueba.
+﻿Es una prueba.
+
 Esta linea es del repositorio local.
+
+Esta modificación se ha hecho desde el navegador.
+
